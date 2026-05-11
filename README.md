@@ -1,26 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a003a,100:000000&height=150&section=header&text=Azen&fontSize=70&fontColor=00D9FF&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Engineer&descSize=18&descAlignY=68&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a003a,100:000000&height=110&section=header&text=Azen&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Engineer&descSize=16&descAlignY=72&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+products+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Ship+it.+Learn+from+it.+Do+it+better.;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
----
-
-### whoami
-
-```typescript
-const Azen = {
-  role     : "Full Stack Engineer",
-  stack    : ["TypeScript", "React", "Node.js", "HTML", "TailwindCSS"],
-  focus    : ["Web Apps", "Product Experience", "Clean UI"],
-  building : "flight-deck-focus — choose your route, stay focused 🛫",
-  motto    : "Ship it. Learn from it. Do it better.",
-};
-```
-
----
 
 ### Tech Stack
 
