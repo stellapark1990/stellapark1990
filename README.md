@@ -39,48 +39,16 @@ const Azen = {
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stellapark1990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=stellapark1990&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellapark1990&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stellapark1990&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### Featured Projects
 
 <div align="center">
 
-[![flight-deck-focus](https://github-readme-stats.vercel.app/api/pin/?username=stellapark1990&repo=flight-deck-focus&theme=tokyonight&hide_border=true)](https://github.com/stellapark1990/flight-deck-focus)
-[![juchange-app](https://github-readme-stats.vercel.app/api/pin/?username=stellapark1990&repo=juchange-app&theme=tokyonight&hide_border=true)](https://github.com/stellapark1990/juchange-app)
-
-[![xhs](https://github-readme-stats.vercel.app/api/pin/?username=stellapark1990&repo=xhs&theme=tokyonight&hide_border=true)](https://github.com/stellapark1990/xhs)
-[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=stellapark1990&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/stellapark1990/my-portfolio)
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-![snake animation](https://github.com/stellapark1990/stellapark1990/blob/output/github-contribution-grid-snake-dark.svg)
+| | Project | Description |
+|---|---|---|
+| 🛫 | [**flight-deck-focus**](https://github.com/stellapark1990/flight-deck-focus) | Choose your route. Stay focused. Land at your destination. |
+| ⚽ | [**juchange-app**](https://github.com/stellapark1990/juchange-app) | World Cup offline social bot · TypeScript |
+| 🏮 | [**xhs**](https://github.com/stellapark1990/xhs) | China Intangible Cultural Heritage website |
+| 🌐 | [**my-portfolio**](https://github.com/stellapark1990/my-portfolio) | Personal portfolio site · TypeScript |
 
 </div>
 
