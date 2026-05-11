@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a003a,100:000000&height=110&section=header&text=Azen&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Engineer&descSize=16&descAlignY=72&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:290066,100:000000&height=110&section=header&text=Azen&fontSize=55&fontColor=A78BFA&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Engineer&descSize=16&descAlignY=72&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Ship+it.+Learn+from+it.+Do+it+better.;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ship+it.+Learn+from+it.+Do+it+better.;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,8 +52,8 @@
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=stellapark1990.stellapark1990&left_color=black&right_color=blue)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=stellapark1990.stellapark1990&left_color=1a0033&right_color=7c3aed)
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a003a,100:000000&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:290066,100:000000&height=80&section=footer)
 
 </div>
