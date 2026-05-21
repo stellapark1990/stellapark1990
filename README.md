@@ -29,11 +29,6 @@ const Azen = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellapark1990&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
-<img src="https://streak-stats.demolab.com?user=stellapark1990&theme=midnight-purple&hide_border=true&background=0d1117&stroke=667eea&ring=a78bfa&fire=f093fb&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=f093fb&sideNums=667eea" width="49%" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stellapark1990&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=667eea&point=f093fb" width="95%" />
 
 </div>
