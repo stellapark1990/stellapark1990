@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Azen&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=创意开发者%20%7C%20产品工程师&descSize=18&descAlignY=55&descColor=fff" />
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=把想法变成可交互的体验.;打造让人爱不释手的产品.;探索技术与文化的交汇点.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=把想法变成可交互的体验.;打造有意思的产品.;探索技术与人文的交汇点.)](https://git.io/typing-svg)
 
 </div>
 
