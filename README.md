@@ -1,40 +1,36 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Azen&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Product%20Engineer&descSize=18&descAlignY=55&descColor=fff" />
+<!-- 动态头部 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Azen&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=创意开发者%20%7C%20产品工程师&descSize=18&descAlignY=55&descColor=fff" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+interactive+experiences.;Crafting+products+that+people+love+to+use.;Exploring+the+intersection+of+tech+%26+culture.)](https://git.io/typing-svg)
+<!-- 打字动画 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=把想法变成可交互的体验.;打造让人爱不释手的产品.;探索技术与文化的交汇点.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🤔 关于我
 
 ```typescript
-const azen = {
-  role: "Creative Developer & Product Engineer",
-  focus: ["Frontend Architecture", "Interactive Experiences", "Cultural Tech"],
-  currently: "Building tools that make focus effortless",
-  philosophy: "Ship fast. Ship beautiful. Ship things that matter."
+const Azen = {
+  角色: "产品工程师",
+  专注: ["AI产品", "用户产品"],
+  当下: "vibecoding有意思的产品 & 学习Agent记忆",
+  信条: "快速迭代，做有意义的事"
 };
 ```
 
-I build tools that feel intuitive, websites that tell stories, and applications that solve real problems — at the intersection of **technology and human experience**.
+敏捷、自驱是我认为AI时代产品经理所必备的特质，希望做能解决真实问题的应用
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub 数据
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stellapark1990&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=667eea&text_color=c9d1d9&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellapark1990&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=stellapark1990&theme=midnight-purple&hide_border=true&background=0d1117&stroke=667eea&ring=a78bfa&fire=f093fb&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=f093fb&sideNums=667eea" width="70%" />
+<img src="https://streak-stats.demolab.com?user=stellapark1990&theme=midnight-purple&hide_border=true&background=0d1117&stroke=667eea&ring=a78bfa&fire=f093fb&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=f093fb&sideNums=667eea" width="49%" />
 
 <br/><br/>
 
@@ -44,7 +40,7 @@ I build tools that feel intuitive, websites that tell stories, and applications 
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🛠️ 技术栈
 
 <div align="center">
 
@@ -68,29 +64,20 @@ I build tools that feel intuitive, websites that tell stories, and applications 
 
 <br/>
 
-## 🚀 Featured Projects
+## 🌱 正在探索
 
-- 🛫 **[flight-deck-focus](https://github.com/stellapark1990/flight-deck-focus)** — Aviation-inspired productivity tool.
-- ⚽ **[juchange-app](https://github.com/stellapark1990/juchange-app)** — World Cup offline social platform.
-- 🏮 **[xhs](https://github.com/stellapark1990/xhs)** — China Intangible Cultural Heritage digital experience.
-- 🌐 **[my-portfolio](https://github.com/stellapark1990/my-portfolio)** — Personal brand hub & case studies.
-
-<br/>
-
-## 🌱 Currently Exploring
-
-- 🤖 **AI Integration** — OpenAI Realtime API, voice-first interfaces
-- 🎨 **Creative Coding** — WebGL, Three.js, generative art
-- 🏗️ **System Design** — Frontend architecture & performance
+- 🤖 **AI 集成** — OpenAI Realtime API，语音交互界面
+- 🎨 **创意编程** — WebGL、Three.js、生成式
+- 🏗️ **系统设计** — 前端架构与性能优化
 
 <br/>
 
-## 🤝 Let's Build Something
+## 😎 一起做点酷的东西
 
 <div align="center">
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/stellapark1990">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -102,6 +89,6 @@ I build tools that feel intuitive, websites that tell stories, and applications 
 
 <br/>
 
-<sub>💜 <i>"The best code is the one that makes someone's day a little better."</i></sub>
+<sub>💜 <i>"最好的代码，是能让某个人的一天稍微变得更好的代码。"</i></sub>
 
 </div>
