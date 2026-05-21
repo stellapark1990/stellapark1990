@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <!-- Dynamic Header -->
@@ -106,4 +105,3 @@ I build tools that feel intuitive, websites that tell stories, and applications 
 <sub>💜 <i>"The best code is the one that makes someone's day a little better."</i></sub>
 
 </div>
-````
